@@ -8,7 +8,7 @@
     "json",
     "mysql json"
   ],
-  "type": "yii2-extension",
+  "type": "library",
   "require": {
     "yiisoft/yii2": "~2.0.0"
   },
