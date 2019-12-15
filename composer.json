@@ -1,5 +1,5 @@
 {
-  "name": "imyangjin/yii2-mysql-json",
+  "name": "t04st3r/yii2-mysql-json",
   "description": "extend yii2-ActiceRecord And yii2-ActiveQuery with use mysql json make simple.",
   "keywords": [
     "yii2",
@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Imyangjin\\Yii2MysqlJson\\": "src"
+      "t04st3r\\Yii2MysqlJson\\": "src"
     }
   },
   "authors": [
