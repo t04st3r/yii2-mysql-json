@@ -7,7 +7,7 @@
  * @author   yangjin <imyangjin@vip.qq.com>
  * @license  PHP Version 7.1.x {@link http://www.php.net/license/3_0.txt}
  */
-namespace Imyangjin\Yii2MysqlJson;
+namespace t04st3r\Yii2MysqlJson;
 
 use yii\db\ActiveRecord;
 
